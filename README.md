@@ -1,2 +1,0 @@
-# EntegreX
-EntegreX Integration
